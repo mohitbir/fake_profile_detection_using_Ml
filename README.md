@@ -1,6 +1,4 @@
-#Detect fake profiles in online social networks#
 
-Freelancer.com project URL: https://www.freelancer.in/projects/Python/Write-some-Software-9045568/
 
 ##install all python dependencies as mentioned below##
 
